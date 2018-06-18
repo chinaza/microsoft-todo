@@ -1,0 +1,25 @@
+{
+  "name": "microsoft-todo",
+  "productName": "Microsoft Todo",
+  "version": "1.0.0",
+  "description": "Cross-platform Microsoft todo app",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": "https://github.com/chinaza/microsoft-todo",
+  "keywords": [
+    "Microsoft",
+    "todo",
+    "Zhap",
+    "Chinaza",
+    "Egbo",
+    "electron"
+  ],
+  "author": "@onlyzhap",
+  "license": "CC0-1.0",
+  "devDependencies": {
+    "electron": "^2.0.0",
+    "electron-builder": "^20.15.1"
+  }
+}
